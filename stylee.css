@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(92, 73, 92, 0.562);
+}
+
+h3{
+    text-align: center;
+    text-decoration: palevioletred;
+    color: palevioletred;
+}
+div{
+    display:flex;
+    flex-direction: column;
+    margin:60;
+    margin-right: 150;
+    margin-left: 100;
+    
+   
+}
+table{
+    padding:60;
+}
+p{
+    text-align: center;
+    color:rgb(141, 85, 113);
+    width: 500px;
+    margin-left: 400px;
+}
+.prixt{
+    border:solid plum 1px;
+    font-size: 20px;
+}
+.prixtotale{
+    width: 100px;
+    margin-right: 900px;
+    text-align: end;
+}
+.buttonP {background-color: #4CAF50;} 
+.buttonM {background-color: #f44336;}
+body { 
+    background: #eeeeee;
+    background: radial-gradient(ellipse at center, #ffffff 0%,#dddddd 100%);
+    }
+    
+
+
+    
+    
